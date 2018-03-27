@@ -1,2 +1,0 @@
-# Giphy-API
-Giphy HW
