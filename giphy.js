@@ -96,5 +96,5 @@ $(".submit").on("click", function (event) {
 	buttonGenerator();
 });
 
-
+buttonGenerator();
 
